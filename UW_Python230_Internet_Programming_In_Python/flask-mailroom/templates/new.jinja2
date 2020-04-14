@@ -1,0 +1,15 @@
+{% extends 'base.jinja2' %}
+
+{% block subtitle %}Enter a new donation{% endblock subtitle %}
+
+{% block content %}
+<form method="POST">
+    {% if error %}<p>{{ error }}</p>{% endif %}
+    <label for="name-input">Name: </label><input id="name-input" type="text" name="name" autofocus required><br>
+    <br>
+    <label for="amount-input">Amount: $</label>
+    <input id="amount-input" type="number" name="amount" pattern="^\$?([1-9]{1}[0-9]{0,2}(\,[0-9]{3})*(\.[0-9]{0,2})?|[1-9]{1}[0-9]{0,}(\.[0-9]{0,2})?|0(\.[0-9]{0,2})?|(\.[0-9]{1,2})?)$" required><br>
+    <br><br>
+    <input type="submit" value="Add donation">    
+</form>
+{% endblock content %}
