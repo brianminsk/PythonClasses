@@ -11,7 +11,7 @@ There are three courses in the certificate:
 - PY230: `Internet Programming in Python <https://www.pce.uw.edu/courses/internet-programming-with-python>`_ .
 
 Since I did not live near Seattle when I was completing the courses and I wanted to start the courses immediately I used the '`online, self-paced <https://www.pce.uw.edu/help/selecting-a-program/learning-formats#selfpaced>`_'
-learning format. The learning format for these courses consisted of reading material, videos of the instructors, and links to external text and video content. Each course also had one or two instructors who you could ask questions and who graded our work.
+learning format. The learning format for these courses consisted of reading material, videos of the instructors, discussion forums, and links to external text and video content. Each course also had one or two instructors to whom you could ask questions and who also graded our work.
 
 The repository has 3 top-level folders:
 
