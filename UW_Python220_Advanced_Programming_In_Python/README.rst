@@ -26,4 +26,4 @@ Coding work for each lesson might consist of:
 Each lesson in the repository tends to have this structure, though lessons 4 through 8 and 10 did not have activities.
 
 In general, most of the work was done from scratch, with code copied from the lesson content occasionally. We forked from a central class repository on GitHub and 
-when we were ready to turn in work we pushed it from our forked repository, and made a pull request back to the main repository for instructory review.
+when we were ready to turn in work we pushed it from our forked repository, and made a pull request back to the main repository for instructor review.
