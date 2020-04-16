@@ -1,24 +1,29 @@
-===================================================================
-Brian Minsk's Python code for UWPCE-PythonCert PY220 (online) class
-===================================================================
+====================================
+PY220 Advanced Programming in Python
+====================================
+----------------------------------------------------------------------------
+My work for the University of Washington's Certificate in Python Programming
+---------------------------------------------------------------------------- 
 
-I am originally from Atlanta, Georgia then moved to Woodinville, Washington,
-where I lived for 12 years. My home is now way out in the country in Chiang
-Mai province of Thailand very close to the border with Myanmar. I am
-temporarily back in Washington state, near Silverdale, and plan to return
-home to Thailand later this year.
+This course is broken down into 10 lessons:
 
-My fiance's home in Thailand:
+1. **Advanced Testing**
+2. **Logging & Debugging**
+3. **Relational Databases**
+4. **Iteration**
+5. **Consuming APIs with NoSQL**
+6. **Profiling & Performance** 
+7. **Concurrency & Async Programming**
+8. **Functional Techniques**
+9. **Advanced Language Constructs**
+10. **Metaprogramming**
 
-.. image:: https://i.imgur.com/msP9xLh.jpg
-   :width: 100%
+Coding work for each lesson might consist of:
 
-My largest software development project was the Windows text mining tool,
-VantagePoint, which was coded almost entirely by me and one other developer
-using Visual C++. We starting developing it around 1996. VantagePoint is still
-actively developed and is used by many Global 100 organizations. It has also
-been rebranded by Thomson Reuters and their spinoff, Clarivate Analytics.
+- **Activities** (ungraded practice experiences) and
+- **Assignments** (graded evidence of competence).
 
-I will use the Python skills I learn, as well as other skills such as web
-programming, JavaScript, and PHP, to support my freelance software development
-work from Thailand. 
+Each lesson in the repository tends to have this structure, though lessons 4 through 8 and 10 did not have activities.
+
+In general, most of the work was done from scratch, with code copied from the lesson content occasionally. We forked from a central class repository on GitHub and 
+when we were ready to turn in work we pushed it from our forked repository, and made a pull request back to the main repository for instructory review.
