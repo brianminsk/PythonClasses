@@ -39,6 +39,23 @@ This course is broken down into 5 parts and 10 lessons:
                   9. Django Deployment
 :Part 5 - The Internet of Things: 10. Metaprogramming
 
++---------------------------------+---------------------------------------------+
+| Part 1 - Flask                  | 1. Web Frameworks & Flask                   |
++---------------------------------+---------------------------------------------+
+| Part 2 - Internet Technologies  | 2. TCP/IP & Sockets                         |
+|                                 | 3. Web Protocols                            |
+|                                 | 4. CGI & WSGI                               |
++---------------------------------+---------------------------------------------+                                 
+| Part 3 - Consuming the Web      | 5. Mashups & Microservices                  |
+|                                 | 6. Using APIs & Getting Started with Django | 
++---------------------------------+---------------------------------------------+
+| Part 4 - Django                 | 7. Django Continued                         |
+|                                 | 8. Django Addons & Security                 |
+|                                 | 9. Django Deployment                        |
++---------------------------------+---------------------------------------------+
+| Part 5 - The Internet of Things | 10. Metaprogramming                         |
++---------------------------------+---------------------------------------------+
+
 Coding work for each lesson might consist of:
 
 - **Activities** (ungraded practice experiences) and
