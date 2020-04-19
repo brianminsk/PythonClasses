@@ -11,4 +11,4 @@ graded exercises.
 There is also the first 'assignment' (graded 'high value' evidence of competence) which you can see in the `Assignment 
 <https://github.com/brianminsk/PythonClasses/tree/master/UW_Python210_Programming_In_Python/lesson03/Assignment>`_ folder.
 This assignment is part of a donation tracking application that sends emails to donors and is extended in 3 additional
-lessons: lessons 4-6. 
+lessons: lessons 4-6 and lesson 9. 

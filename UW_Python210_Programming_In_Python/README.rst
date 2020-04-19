@@ -15,8 +15,8 @@ This course is broken down into 10 lessons:
 6. **Unit Testing and Advanced Argument Passing** 
 7. **Intro to Object Oriented Programing**
 8. **Properties and Magic Methods**
-9. **Advanced Object Oriented Programming**
-10. **Introduction to Functional Programming**
+9. **Advanced Object Oriented Programming** (also elsewhere called **Multiple Inheritance**)
+10. **Introduction to Functional Programming** 
 
 Coding work for each lesson might consist of:
 
