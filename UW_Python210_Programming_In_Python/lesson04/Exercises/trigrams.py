@@ -68,7 +68,7 @@ def degutenbergerator(lines):
         if "*** END OF THIS PROJECT GUTENBERG" in line or "End of Project Gutenberg" in line:
             lines = lines[:i]
             break
-    print(lines)
+    # print(lines)
     return lines
             
 def parse_words(full_text):
