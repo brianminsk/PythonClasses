@@ -5,7 +5,7 @@ My Work for the University of Washington's Python Programming Certification
 This repository contains my coursework for the University of Washington's `Certificate in Python Programming
 <https://www.pce.uw.edu/certificates/python-programming/>`_ that I completed 2019-2020.
 
-I received 100% grade in all coursework.
+I received 100% grades in all coursework.
 
 There are three courses in the certificate:
 
