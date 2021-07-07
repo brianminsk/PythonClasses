@@ -1,0 +1,12 @@
+### create.jinja2
+{% extends 'base.jinja2' %}
+
+{% block subtitle %}Add a task{% endblock subtitle %}
+
+{% block content %}
+<form method="POST">
+    <label for="task_name">Task name: </label>
+    <input type="text" id="task_name" name="name">
+    <input type="submit" value="Create task!">
+</form>
+{% endblock content %}
