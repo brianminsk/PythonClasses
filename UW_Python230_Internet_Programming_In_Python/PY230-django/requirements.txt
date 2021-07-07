@@ -3,7 +3,7 @@ colorama==0.4.3
 Django==2.1.11
 djangorestframework==3.11.0
 pyconfiglib==1.3.3
-Pygments==2.6.1
+Pygments==2.7.4
 pypandoc==1.4
 pytz==2019.3
 superprompt==1.2.0
