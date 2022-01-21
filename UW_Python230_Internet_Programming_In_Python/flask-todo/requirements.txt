@@ -20,7 +20,7 @@ Flask==1.1.1
 gunicorn==20.0.4
 importlib-metadata==0.19
 ipdb==0.12.2
-ipython==7.5.0
+ipython==7.16.3
 ipython-genutils==0.2.0
 isort==4.3.4
 itsdangerous==1.1.0
